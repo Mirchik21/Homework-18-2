@@ -1,0 +1,15 @@
+C:\classwork\Homework-18-2\Homework-18-2\obj\Debug\net6.0\Homework-18-2.csproj.AssemblyReference.cache
+C:\classwork\Homework-18-2\Homework-18-2\obj\Debug\net6.0\Homework-18-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\classwork\Homework-18-2\Homework-18-2\obj\Debug\net6.0\Homework-18-2.AssemblyInfoInputs.cache
+C:\classwork\Homework-18-2\Homework-18-2\obj\Debug\net6.0\Homework-18-2.AssemblyInfo.cs
+C:\classwork\Homework-18-2\Homework-18-2\obj\Debug\net6.0\Homework-18-2.csproj.CoreCompileInputs.cache
+C:\classwork\Homework-18-2\Homework-18-2\bin\Debug\net6.0\Homework-18-2.exe
+C:\classwork\Homework-18-2\Homework-18-2\bin\Debug\net6.0\Homework-18-2.deps.json
+C:\classwork\Homework-18-2\Homework-18-2\bin\Debug\net6.0\Homework-18-2.runtimeconfig.json
+C:\classwork\Homework-18-2\Homework-18-2\bin\Debug\net6.0\Homework-18-2.dll
+C:\classwork\Homework-18-2\Homework-18-2\bin\Debug\net6.0\Homework-18-2.pdb
+C:\classwork\Homework-18-2\Homework-18-2\obj\Debug\net6.0\Homework-18-2.dll
+C:\classwork\Homework-18-2\Homework-18-2\obj\Debug\net6.0\refint\Homework-18-2.dll
+C:\classwork\Homework-18-2\Homework-18-2\obj\Debug\net6.0\Homework-18-2.pdb
+C:\classwork\Homework-18-2\Homework-18-2\obj\Debug\net6.0\Homework-18-2.genruntimeconfig.cache
+C:\classwork\Homework-18-2\Homework-18-2\obj\Debug\net6.0\ref\Homework-18-2.dll
